@@ -31,7 +31,7 @@ venv\Scripts\activate
 
 Executando a aplicação de forma manual
 
-(venv) C:\Users\Rubia>cd C:\\Users\\Teste\\Desktop\\Projeto_facultade_2.0
+(venv) C:\Users\Teste>cd C:\\Users\\Teste\\Desktop\\Projeto_facultade_2.0 (Lembre de trocar para a rota do seu diretorio)
 
 (venv) C:\Users\Teste\Desktop\Projeto_facultade_2.0>python app.py
 
@@ -39,7 +39,7 @@ Cole o link em seu navegador
 
 http://127.0.0.1:5000/
 
-Caso deseje, com as instancias ja instaladas, basta utilizar o arquivo "Inicia_aplicacao"(Execute como Amdinistrador, e se necessario crie uma exeção em seu antivirus para este arquivo)
+Caso deseje, com as instancias ja instaladas, basta utilizar o arquivo "Inicia_aplicacao"(Execute como Amdinistrador, e se necessario crie uma exeção em seu antivirus para este arquivo, e altere a rota do arquivo)
 
 Tambem caso deseje, pode utilizar o https://sqlitebrowser.org/, para verificar as tabelas criadas.
 
